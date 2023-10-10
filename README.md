@@ -30,4 +30,4 @@ Os algoritmos utilizados para separar fatos e regras em Prolog foram fundamentai
 
 Fique à vontade para explorar o projeto e mergulhar no fascinante mundo da lógica em Prolog!
 
-![Minha Imagem](https://github.com/gugaldox/project-prolog/blob/c533e2d0d8c70215e7f7ce3dc33aa03c8165fdad/project-prolog.jfif)
+
