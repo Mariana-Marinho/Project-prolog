@@ -34,6 +34,8 @@ Fique à vontade para explorar o projeto e mergulhar no fascinante mundo da lóg
 
 Aldo dos Santos Ferreira Lemos (asfl@cin.ufpe.br)
 
+Maria Beatriz Martins Pontes Gonçalo (mbmpg@cin.ufpe.br)
+
 Mariana Marinho da Silva Andrade (mmsa@cin.ufpe.br)
 
 
