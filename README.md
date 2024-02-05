@@ -30,4 +30,9 @@ Os algoritmos utilizados para separar fatos e regras em Prolog foram fundamentai
 
 Fique à vontade para explorar o projeto e mergulhar no fascinante mundo da lógica em Prolog!
 
+## COLABORADORES
+
+Aldo dos Santos Ferreira Lemos (asfl)
+Mariana Marinho da Silva Andrade (mmsa)
+
 
