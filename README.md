@@ -33,6 +33,7 @@ Fique à vontade para explorar o projeto e mergulhar no fascinante mundo da lóg
 ## COLABORADORES
 
 Aldo dos Santos Ferreira Lemos (asfl)
+
 Mariana Marinho da Silva Andrade (mmsa)
 
 
